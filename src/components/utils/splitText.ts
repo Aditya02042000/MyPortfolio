@@ -1,6 +1,6 @@
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { SplitText } from "gsap-trial/SplitText";
+import { SplitText } from "gsap/all";
 
 
 interface ParaElement extends HTMLElement {
