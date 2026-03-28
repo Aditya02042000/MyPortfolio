@@ -73,7 +73,6 @@ const SocialIcons = () => {
         href="/Aditya_Kumar_Gautam_Resume.pdf"
         target="_blank"
         rel="noopener noreferrer"
-        download="Aditya_Kumar_Gautam_Resume.pdf"
       >
         <HoverLinks text="RESUME" />
         <span>
