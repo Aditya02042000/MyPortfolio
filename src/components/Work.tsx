@@ -17,9 +17,9 @@ const projects = [
     image: "",
   },
   {
-    title: "Hack Quest 2024",
-    category: "24-Hour CTF Hackathon",
-    tools: "Python, Cryptography",
+    title: "Animated Portfolio Website",
+    category: "Personal Portfolio",
+    tools: "React.js, TypeScript, CSS",
     image: "",
   },
 ];
