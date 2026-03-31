@@ -68,13 +68,6 @@ const Navbar = () => {
         <a href="/#" className="navbar-title" data-cursor="disable">
           AKG
         </a>
-        <a
-          href="mailto:adityakumar02042000@gmail.com"
-          className="navbar-connect"
-          data-cursor="disable"
-        >
-          adityakumar02042000@gmail.com
-        </a>
         <ul>
           <li>
             <a data-href="#about" href="#about">
