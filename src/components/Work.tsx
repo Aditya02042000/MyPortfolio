@@ -10,12 +10,7 @@ const projects = [
     tools: "React.js, Node.js, MongoDB",
     image: "",
   },
-  {
-    title: "Urban Management System",
-    category: "Civic Services Portal",
-    tools: "HTML, CSS, JavaScript",
-    image: "",
-  },
+
   {
     title: "Animated Portfolio Website",
     category: "Personal Portfolio",
